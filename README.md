@@ -1,1 +1,1 @@
-# gejt-java-algorithms
+# java algorithms from leetcode java algorithms
